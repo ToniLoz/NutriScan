@@ -1,0 +1,9 @@
+{
+  "name": "nutriscan-api",
+  "version": "1.0.0",
+  "description": "NutriScan — API proxy para análisis nutricional con IA",
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true
+}
